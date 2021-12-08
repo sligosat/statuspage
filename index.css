@@ -9,7 +9,7 @@ html {
 }
 body {
   background-color: #22272e;
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 14px;
   font-weight: 300;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
@@ -39,39 +39,39 @@ textarea,
 }
 
 h1 {
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 32px;
   font-weight: bold;
   margin: 0px;
 }
 h2 {
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 28px;
   font-weight: bold;
   margin: 16px 0 8px 0;
 }
 h3 {
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 24px;
   font-weight: 700;
   margin: 8px 0 4px 0;
 }
 h4 {
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 18px;
   font-weight: 600;
   margin-top: 5px;
   margin-bottom: 4px;
 }
 h5 {
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 16px;
   font-weight: bold;
   margin-top: 5px;
   margin-bottom: 4px;
 }
 h6 {
-  color: #3b3b3b;
+  color: #939a9c;
   font-size: 16px;
   font-weight: bold;
   margin-top: 5px;
@@ -88,7 +88,7 @@ button {
   background-color: #194b7d;
   border: none;
   border-radius: 8px;
-  color: white;
+  color: #4f5963;
   cursor: pointer;
   font-size: 16px;
   font-weight: 600;
@@ -107,7 +107,7 @@ footer a {
 
 .pageContainer {
   padding: 30px 50px;
-  background-color: #fff;
+  background-color: #2d333b;
   box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.06);
   border-radius: 5px;
   max-width: 900px;
@@ -122,7 +122,7 @@ footer a {
 }
 
 .headline span {
-  background-color: #f5f6f8;
+  background-color: #4f5963;
   border-radius: 5px;
   padding: 6px;
   margin-left: 12px;
@@ -137,7 +137,7 @@ footer a {
 }
 
 .statusContainer {
-  border: 1px solid #ededed;
+  border: 1px solid #4f5963;
   border-radius: 5px;
   padding-top: 20px;
   text-align: left;
@@ -145,7 +145,7 @@ footer a {
 }
 
 .statusContainer + .statusContainer {
-  border-top: 1px solid #eee;
+  border-top: 1px solid #4f5963;
   margin-top: 30px;
 }
 
@@ -188,7 +188,7 @@ footer a {
 }
 
 .statusHeadline {
-  color: #eee;
+  color: #939a9c;
   padding: 4px 8px;
   border-radius: 15px;
   font-size: 12px;
@@ -199,7 +199,7 @@ footer a {
 .statusUptime {
   flex: 1;
   text-align: right;
-  color: #7c7c7c;
+  color: #939a9c;
   font-size: 12px;
 }
 
@@ -212,36 +212,36 @@ footer a {
 
 .uptimeContainer hr {
   border: none;
-  border-top: 1px dashed #eee;
+  border-top: 1px dashed #4f5963;
   width: 100%;
   margin: 10px;
 }
 
 .success {
   background-color: #4cae50;
-  color: #fff;
+  color: #939a9c;
 }
 
 .failure {
   background-color: #f44336;
-  color: #fff;
+  color: #939a9c;
 }
 
 .nodata {
-  background-color: #f8f8f8;
-  color: #ccc;
+  background-color: #4f5963;
+  color: #939a9c;
 }
 
 .partial {
   background-color: #ff9800;
-  color: #fff;
+  color: #2d333b;
 }
 
 .tooltip {
-  background-color: #fff;
+  background-color: #2d333b;
   box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
-  color: #3b3b3b;
+  color: #4f5963;
   font-size: 12px;
   line-height: 18px;
   padding: 16px;
@@ -258,7 +258,7 @@ footer a {
   width: 4px;
   text-align: center;
   border: 4px solid transparent;
-  border-bottom-color: #fff;
+  border-bottom-color: #2d333b;
   left: 50%;
   margin-left: -2px;
 }
@@ -271,7 +271,7 @@ footer a {
 }
 
 .tooltip .tooltipKey {
-  color: #ccc;
+  color: #4f5963;
   font-size: 10px;
 }
 
@@ -292,7 +292,7 @@ footer a {
 
 .tooltip hr {
   border: none;
-  border-top: 1px solid #ededed;
+  border-top: 1px solid #4f5963;
   margin-top: 16px;
 }
 
